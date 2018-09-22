@@ -20,6 +20,7 @@ modified by bin-w
 - [Taehyun Lee](https://github.com/taehyun-lee)
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Elizabeth Salazar](https://github.com/annelizs)
+- [Daniel Biehle] (https://github.com/dannybrain)
 - [Bcsrn]
 - [Jeff GaoEy](https://github.com/Gaoey)
 - [Catarina Belém](https://github.com/PastelBelem8)
